@@ -391,15 +391,15 @@ baidu_analytics: ceb2b9dcf6de10d1a14324287c263e54
 # Disqus
 disqus:
   enable: true
-  shortname: ishanshanblog
+  shortname: liulinghui
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
   hide: false
 
-reward_comment: 如果内容对你有帮助，那就来杯酸奶助我继续分享吧 (＾－＾)V
-wechatpay: http://ishanshan.zoomquiet.top/share/rewardblogwechatpay-3.jpeg?imageView2/2/w/280
-alipay: http://ishanshan.zoomquiet.top/share/rewardblogalipay.jpeg?imageView2/2/w/300
+# reward_comment: 如果内容对你有帮助，那就来杯酸奶助我继续分享吧 (＾－＾)V
+# wechatpay: http://ishanshan.zoomquiet.top/share/rewardblogwechatpay-3.jpeg?imageView2/2/w/280
+# alipay: http://ishanshan.zoomquiet.top/share/rewardblogalipay.jpeg?imageView2/2/w/300
 
 
 # Hypercomments
@@ -468,7 +468,7 @@ gitalk:
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
