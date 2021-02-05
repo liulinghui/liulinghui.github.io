@@ -233,13 +233,13 @@ social:
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: true
+  # enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Usage: blind
-  SlideShare: slideshare
-  Email: at
+  # GitHub: github
+  #Usage: blind
+  #SlideShare: slideshare
+  #Email: at
 
 
 # Sidebar Avatar
@@ -292,11 +292,10 @@ sidebar:
 
 
 # Blog rolls
-links_title: Other Resources
+#links_title: Other Resources
 #links_layout: block
 #links_layout: inline
-links:
-  0. Guide for Collaborating as A Shaper: https://github.com/ishanshan/CollaborationGuide4Shaper
+#links:
 
 # ---------------------------------------------------------------
 # Post Settings
@@ -383,7 +382,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: ceb2b9dcf6de10d1a14324287c263e54
+baidu_analytics: 
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -425,11 +424,11 @@ changyan:
 # Support for gitalk comments system.
 gitalk:
   enable: false
-  clientID: # 54730ddf7b9420460c03
-  clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: # colingpt.github.io
-  owner: # colingpt
-  admin: # colingpt
+  clientID: 
+  clientSecret: 
+  repo: 
+  owner: 
+  admin: 
 
 # Baidu Share
 # Available value:
