@@ -8,8 +8,7 @@ post-reward: true
 <br>
 
 
-如果你有疑问、建议、想交流的话题）——微信联系
-![微信二维码](https://tva1.sinaimg.cn/large/008eGmZEgy1gncv95xsv0j30e80e8dg6.jpg)
+如果你有疑问、建议、想交流的话题）——微信联系：TheMasterKeySystem-
 
 
 
