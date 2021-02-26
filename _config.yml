@@ -87,7 +87,7 @@ keywords: "ishanshan's blog"
 rss:
 
 # Specify the date when the site was setup
-since: 2015
+since: 2019
 
 # icon between year and author @Footer
 authoricon: heart
@@ -220,11 +220,11 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-social:
+# social:
   # GitHub: https://github.com/ishanshan
   # Usage: https://github.com/ishanshan/collaborate_ishanshan/blob/master/usage_ishanshan.md
-  SlideShare: https://www.slideshare.net/ssusere6acd7/presentations
-  Email: liulinghui.top@gmail.com
+# SlideShare: https://www.slideshare.net/ssusere6acd7/presentations
+# Email: liulinghui.top@gmail.com
 
 
 # Social Links Icons
@@ -261,7 +261,7 @@ toc:
 # Creative Commons 4.0 International License.
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
-creative_commons: by-sa
+#creative_commons: by-sa
 #creative_commons:
 
 
